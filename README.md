@@ -1,4 +1,7 @@
-# DS304.L21
+# Project about Data analysis and build Linear regression model  
+## Data
+https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset
 
-Analyze and build a model to predict house prices
+ Data analysis project performed on the Boston Housing dataset, performing analysis using Anova to select features related to house prices.
 
+ Anova used in R studio
